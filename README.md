@@ -9,5 +9,5 @@
 </ol>
 <h2>
   Deployed  Project link -
-  <h4><a href="https://mausamsamachar1.netlify.app/">Weather app</a></h4>
+  <h4><a href="https://mausamsamachar1.netlify.app/">mausamsamachar1.netlify.app</a></h4>
 </h2>
