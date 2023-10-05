@@ -7,3 +7,6 @@
     It gives details of windspeed,humidity,clouds,temperature
   </li>
 </ol>
+<h2>
+  Deployed  Project link -mausamsamachar1.netlify.app
+</h2>
